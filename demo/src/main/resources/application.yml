@@ -1,0 +1,6 @@
+mysql:
+ host: ${HOST:localhost}
+ user: ${USER:root}
+ password: ${PASSWORD:}
+ port: ${PORT:3306}
+ db: ${DB:juegos}
